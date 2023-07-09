@@ -1,6 +1,3 @@
-# TogekissOS
+# Togekiss OS
 
-A Operating system in alpha:
-
-
-(IM SPANISH)
+A os in under construction
