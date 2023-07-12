@@ -6,7 +6,7 @@ A os in under construction
 
 Milestone 1: Boot
 
-Bootloader: YES
+Bootloader: YES (GRUB) 
 
 SCSI Driver: YES
 
