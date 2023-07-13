@@ -28,7 +28,7 @@ VGA Driver - NO
 
 More drivers - NO
 
-CDROM Driver - NO
+CDROM Driver - YES
 
 Ext3 Support - NO
 
