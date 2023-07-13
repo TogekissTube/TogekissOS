@@ -32,7 +32,7 @@ public:
     fs.write(buffer.data(), size);
   }
 
-  // Agregar soporte para diferentes tipos de discos
+
   bool isCD(string device) {
     return device.find("CD-ROM") != string::npos;
   }
