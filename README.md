@@ -1,10 +1,10 @@
 # TogekissOS
 
-UNIX-LIKE x86 kernel, Windows XP but better.
+## UNIX-LIKE x86 kernel, Windows XP but better.
 
-Roadmap, (trash lol).:
+## Roadmap, (trash lol).:
 
-Chapter 1: The beggining.
+## Chapter 1: The beggining.
 
 - [ ] Hello world!
 - [ ] VGA driver
@@ -21,7 +21,7 @@ Chapter 1: The beggining.
 - [ ] Switch to User Mode
 - [ ] System Calls
 
-Chapter 2: User-space and more functionality to the kernel.
+## Chapter 2: User-space and more functionality to the kernel.
 
 - [ ] ELF loader
 - [ ] C library (printf, fopen, free, malloc, etc, im very bad thinking function names)
@@ -38,7 +38,7 @@ Chapter 2: User-space and more functionality to the kernel.
 - [ ] Unix-like signals
 - [ ] Module system (like Linux)
 
-Chapter 3: Self-hosting OS and porting some tools.
+## Chapter 3: Self-hosting OS and porting some tools.
 
 - [ ] Port binutils
 - [ ] Port GCC
@@ -50,7 +50,7 @@ Chapter 3: Self-hosting OS and porting some tools.
 - [ ] Porting Quake (yeah, i love game gender, not sex lol, im not gay)
 - [ ] Port bc
 
-Chapter 4: Networking.
+## Chapter 4: Networking.
 
 - [ ] NE2000
 - [ ] RTL8139
@@ -59,7 +59,7 @@ Chapter 4: Networking.
 - [ ] DNS lookup + /etc/resolv.conf
 - [ ] TCP/IP (IPv4, yeah, hardest part)
 - [ ] IPv6 (Porting TCP/IP to IPv6, but not drop IPv4 support)
-- [ ] UDP (Yeah, more suffering to ME)
+- [ ] UDP (IPv4 and IPv6, Yeah, more suffering to ME)
 - [ ] HTTP
 - [ ] Port OpenSSL
 - [ ] Port wget
@@ -69,7 +69,7 @@ Chapter 4: Networking.
 - [ ] Port lynx (kinda a functional browser...)
 - [ ] Package manager + repository support
 
-Chapter 5: USB and Sound.
+## Chapter 5: USB and Sound.
 
 - [ ] xHCI driver
 - [ ] USB hubs
@@ -79,7 +79,7 @@ Chapter 5: USB and Sound.
 - [ ] PC Speaker
 - [ ] Intel HDA
 
-Chapter 6: GUI:
+## Chapter 6: GUI:
 
 - [ ] Graphics library (Porting like such as GTK+, or do from scratch).
 - [ ] Display manager
