@@ -46,7 +46,7 @@
 - [ ] Port ncurses
 - [ ] Port nano
 - [ ] Porting DOOM :D
-- [ ] Porting Quake (yeah, i love game gender, not sex lol, im not gay)
+- [ ] Porting Quake (yeah, i love game gender, not sex lol)
 - [ ] Port bc
 
 ## Chapter 4: Networking.
