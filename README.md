@@ -6,16 +6,17 @@
 
 ## Chapter 1: The beggining.
 
-- [ ] Hello world!
+- [x] Hello world!
 - [ ] VGA driver
 - [ ] GDT and IDT
 - [ ] ISR and Panic
 - [ ] PIC and IRQs, PIT (Timer)
 - [ ] Keyboard
+- [ ] Terminal
+- [ ] Commands
 - [ ] Paging
 - [ ] Heap
-- [ ] AHCI driver
-- [ ] ext2 file system
+- [ ] FART32 file system
 - [ ] Mount root
 - [ ] Multitasking (Task switching, scheculder, TSS, etc.)
 - [ ] Switch to User Mode
@@ -25,8 +26,6 @@
 
 - [ ] ELF loader
 - [ ] C library (printf, fopen, free, malloc, etc, im very bad thinking function names)
-- [ ] Shell
-- [ ] Basic commands (ls, cp, mv, rm, cat, pwd, du, mount.)
 - [ ] PS/2 mouse
 - [ ] uACPI, lol
 - [ ] /dev, /proc
